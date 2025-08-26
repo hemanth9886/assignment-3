@@ -9,5 +9,6 @@ def factorial(n):
         return result
 
 # Main program
-num = int(input("Enter a number: "))
+num = 5  # Replace this with any integer you want to test
 print(f"Factorial of {num} is: {factorial(num)}")
+
